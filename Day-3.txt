@@ -1,0 +1,10 @@
+DataBase:
+->row-document
+->column-field
+MongoDB- stores data as JSON like document, so it feels like the JS objects you already know
+Postman->Express ->Mongoose->MongoDb Atlas
+Mogoose-> Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It acts as a structured translator between your JavaScript code and MongoDB's flexible database.
+MongoDb altas-> it is running in cloud,free for learning,We do not install anything in the laptops.
+username->thrinayjayavarapu13_db_user
+password->J1suWEjT4EWeF0MV
+mongodb+srv://thrinayjayavarapu13_db_user:<db_password>@cluster0.f1glerk.mongodb.net/?appName=Cluster0
